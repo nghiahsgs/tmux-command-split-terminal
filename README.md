@@ -16,7 +16,7 @@ o  swap panes
 q  show pane numbers (Show pane numbers, when the numbers show up type the key to goto that pane)
 ```
 ```
-x  kill pane
+x  kill pane or type exit
 ```
 ```
 ⍽  space - toggle between layouts
