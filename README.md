@@ -5,6 +5,8 @@ press ctrl +b and after tha: type the following key
 
 ```
 %  vertical split
+```
+```
 "  horizontal split
 o  swap panes
 q  show pane numbers (Show pane numbers, when the numbers show up type the key to goto that pane)
