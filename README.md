@@ -27,3 +27,5 @@ x  kill pane or type exit
 ```
 } (Move the current pane right)
 ```
+
+https://tmuxcheatsheet.com/
