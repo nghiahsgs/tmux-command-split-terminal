@@ -28,4 +28,19 @@ x  kill pane or type exit
 } (Move the current pane right)
 ```
 
+cheetsheet
+```
 https://tmuxcheatsheet.com/
+```
+list all tmux
+```
+tmux ls
+```
+start new session
+```
+tmux new -s mysession
+```
+open other terminal and access existed session. After use => close terminal to terminate edited session
+```
+tmux attach -t mysession
+```
