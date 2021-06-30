@@ -44,3 +44,14 @@ open other terminal and access existed session. After use => close terminal to t
 ```
 tmux attach -t mysession
 ```
+
+tmux dettach
+```
+ctrl+b => d
+```
+
+
+tmux list session in interactive mode
+```
+ctrl+b => s
+```
