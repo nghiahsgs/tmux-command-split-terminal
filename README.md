@@ -55,3 +55,8 @@ tmux list session in interactive mode
 ```
 ctrl+b => s
 ```
+
+rename session
+```
+tmux rename-session -t 14 api-meeyads-v2-python
+```
