@@ -60,3 +60,15 @@ rename session
 ```
 tmux rename-session -t 14 api-meeyads-v2-python
 ```
+
+
+
+Mở 1 session mới
+```
+tmux new -s new-name 
+```
+
+Mở 1 session mới và run
+```
+tmux new -d -s new-name "python3 a.py"
+```
